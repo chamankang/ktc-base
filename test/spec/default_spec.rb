@@ -6,4 +6,3 @@ describe 'ktc-base::default' do
     pending 'Your recipe examples go here.'
   end
 end
-
